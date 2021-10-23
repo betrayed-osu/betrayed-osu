@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on le recoil pattern de la scar sur fortnite
 - 📫 How to reach me sms ou mms
 
-Profile views : ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+![](https://komarev.com/ghpvc/?username=betrayed-osu)
