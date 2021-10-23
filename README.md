@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning le recoil pattern de l'ak sur csgo
 - 💞️ I’m looking to collaborate on le recoil pattern de la scar sur fortnite
 - 📫 How to reach me sms ou mms
+![image title](https://rushter.com/counter.svg)
