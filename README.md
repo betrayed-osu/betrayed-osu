@@ -4,5 +4,4 @@
 - 💞️ I’m looking to collaborate on le recoil pattern de la scar sur fortnite
 - 📫 How to reach me sms ou mms
 
-
-![counter](https://[YOUR_ENDPOINT].m.pipedream.net)
+![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
